@@ -12,14 +12,14 @@
 ## Terminal Commands
 
 ### Terminal 2: Start Hardhat Node
-```bash
+'''bash
 This command starts a local Ethereum-like network using Hardhat.
 
 ### Terminal 3: Deploy Smart Contract
-```bash
-
+'''bash
 npx hardhat run scripts/deploy.js --network localhost
-After deployment, note the contract address displayed (0x....45). Copy this address.
+
+### After deployment, note the contract address displayed (0x....45). Copy this address.
 
 Update index.js
 Paste the copied contract address into the contractAddress variable in index.js.
