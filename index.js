@@ -168,8 +168,10 @@ export default function HomePage() {
 
   return (
     <main className={styles.container}>
-      <header><h1>Welcome to the Metacrafter App!</h1></header>
+      <header><h1>Welcome to the Metcrafters App!</h1></header>
       {initUser()}
     </main>
   );
 }
+
+
