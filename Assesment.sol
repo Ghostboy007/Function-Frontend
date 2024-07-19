@@ -21,3 +21,4 @@ contract Assessment {
         message = newMessage;
     }
 }
+
