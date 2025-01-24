@@ -2,12 +2,13 @@
 
 ## Setup Instructions
 
-1. **Open in Gitpod**: Click on [Open in Gitpod](https://metacrafterc-scmstarter-ybypmhi93f4.ws-us115.gitpod.io/) to start the project in Gitpod.
+1. **Open in Gitpod**: Click on [Open in Gitpod](https://metacrafterc-scmstarter-ybypmhi93f4.ws-us115.gitpod.io/) or [Codeanywhere](https://app.codeanywhere.com/#https://github.com/Ghostboy007/Function-Frontend)
+ to start the project in the development environment.
 
-2. **Install Prerequisites**: Make sure you have `hardhat` and `node` installed in your Gitpod environment.
+2. **Install Prerequisites**: Make sure you have `hardhat` and `node` installed in your environment.
 
 3. **Open Terminals**:
-   - Open three terminals in your Gitpod workspace.
+   - Open three terminals in your workspace.
 
 ## Terminal Commands
 
